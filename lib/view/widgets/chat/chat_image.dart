@@ -57,7 +57,7 @@ class ChatImage extends StatelessWidget {
                 height: 200,
                 width: 350,
                 child: FullScreenWidget(
-                    child: ClipRRect(child: Center(child: Image.memory(message.message,fit: BoxFit.cover,)))
+                    child: ClipRRect(child: Center(child: Image.memory(base64Decode(message.message),fit: BoxFit.cover,)))
                 ),
               ),
               SizedBox(height: 15),

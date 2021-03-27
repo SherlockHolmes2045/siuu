@@ -1,4 +1,5 @@
 import 'dart:convert';
+import 'dart:ffi';
 import 'dart:typed_data';
 
 import 'package:flutter/material.dart';
@@ -215,19 +216,19 @@ class DevicesController extends GetxController {
       String fromId,
       String fromUsername,
       String type,
-      Uint8List message}) async {
+      String message}) async {
     try {
       if (messagesController.isDeviceConnected(toId)) {
-        /*var data;
+        var data;
         String type;
         String finalMessage;
         if (message.contains(" ")) {
           data = message.split(" ");
           type = data[data.length - 1];
           finalMessage = message.substring(0, message.lastIndexOf(" "));
-        }*/
+        }
         if (type == "text") {
-          nearby.sendBytesPayload(toId, message);
+          nearby.sendBytesPayload(toId, Uint8List.fromList(message.codeUnits));
           messagesController.onSendMessage(
               toId: toId ?? '',
               toUsername: toUsername ?? '',
@@ -236,7 +237,7 @@ class DevicesController extends GetxController {
               message: message,
               type: type);
         } else if (type == "image") {
-          nearby.sendBytesPayload(toId, message);
+          nearby.sendBytesPayload(toId,Uint8List.fromList(message.codeUnits));
           messagesController.onSendMessage(
               toId: toId ?? '',
               toUsername: toUsername ?? '',
@@ -248,7 +249,7 @@ class DevicesController extends GetxController {
           print("envoie de l'audio");
           print(message);
           //Uint8List bytes = base64Decode(message);
-          nearby.sendBytesPayload(toId, message);
+          nearby.sendBytesPayload(toId, Uint8List.fromList(message.codeUnits));
           messagesController.onSendMessage(
               toId: toId ?? '',
               toUsername: toUsername ?? '',

@@ -337,7 +337,7 @@ class _ChatState extends State<Chat> {
           toUsername: widget.deviceUsername,
           fromUsername: widget.appUser,
           type: "text",
-          message: Uint8List.fromList(controller.text.codeUnits),
+          message: controller.text + " text",
         );
       } else if (type == " image") {
         List<int> imageBytes = compressedFile.readAsBytesSync();
@@ -347,7 +347,7 @@ class _ChatState extends State<Chat> {
           toUsername: widget.deviceUsername,
           fromUsername: widget.appUser,
           type: "image",
-          message: Uint8List.fromList(base64Image.codeUnits),
+          message: base64Image + " image",
         );
       } else if (type == " audio") {
         print("cas audio");
@@ -359,7 +359,7 @@ class _ChatState extends State<Chat> {
           toUsername: widget.deviceUsername,
           fromUsername: widget.appUser,
           type: "audio",
-          message: Uint8List.fromList(base64Audio.codeUnits),
+          message: base64Audio + " audio",
         );
       }
       if (!connectionState) {

@@ -6,7 +6,7 @@ class Message {
   final String toUsername;
   final String fromId;
   final String fromUsername;
-  final Uint8List message;
+  final String message;
   final DateTime dateTime;
   String type;
 

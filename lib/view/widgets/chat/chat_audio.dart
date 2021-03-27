@@ -27,7 +27,7 @@ class _ChatAudioState extends State<ChatAudio> {
     String dir = (await getApplicationDocumentsDirectory()).path;
     File file = File(
         "$dir/" + DateTime.now().millisecondsSinceEpoch.toString() + ".wav");
-    await file.writeAsBytes(widget.message.message);
+   // await file.writeAsBytes(widget.message.message);
     return file.path;
   }
 

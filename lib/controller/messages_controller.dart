@@ -39,7 +39,7 @@ class MessagesController extends GetxController {
       String toUsername,
       String fromId,
       String fromUsername,
-      Uint8List message,
+      String message,
         String type
       }) {
     /// Add the message object received to the messages list
@@ -68,7 +68,7 @@ class MessagesController extends GetxController {
       String finalMessage = messageString.substring(0, messageString.lastIndexOf(" "));
       var data = messageString.split(" ");
       print(finalMessage);
-      String type = data[data.length - 1];*/
+      String type = data[data.length - 1];
       /// Add the message object to the messages list
       messages.add(
         Message(
@@ -76,7 +76,7 @@ class MessagesController extends GetxController {
           fromId: fromId,
           fromUsername: fromInfo.endpointName,
           toUsername: username.value,
-          message: payload.bytes,
+          message: finalMessage,
           dateTime: DateTime.now(),
           type: type
         ),

@@ -63,7 +63,7 @@ class ChatBubble extends StatelessWidget {
               ),
               SizedBox(height: 15),*/
               Text(
-                String.fromCharCodes(message.message),
+                message.message,
                 style: TextStyle(
                   fontSize: 20,
                   color: Colors.white,

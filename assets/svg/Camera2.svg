@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="16" height="16" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4d0cbb"/>
+      <stop offset="1" stop-color="#fd0767"/>
+    </linearGradient>
+  </defs>
+  <g id="Camera2" clip-path="url(#clip-path)">
+    <rect id="Rectangle_252" data-name="Rectangle 252" width="16" height="16" fill="none"/>
+    <path id="Path_110" data-name="Path 110" d="M8,10A2,2,0,1,0,6,8,2.006,2.006,0,0,0,8,10ZM8,4A4,4,0,1,1,4,8,4.012,4.012,0,0,1,8,4Zm6,11H2a1.974,1.974,0,0,1-1.4-.6A1.974,1.974,0,0,1,0,13V4A2.006,2.006,0,0,1,2,2H3.6L5.1.5A1.656,1.656,0,0,1,6.3,0H9.8a1.606,1.606,0,0,1,1.1.5L12.4,2H14a2.006,2.006,0,0,1,2,2v9A2.006,2.006,0,0,1,14,15Z" transform="translate(0 1)" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

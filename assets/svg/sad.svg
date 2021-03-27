@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2648" height="2648" viewBox="0 0 2648 2648">
+  <g id="sad" transform="translate(-15356 -800)">
+    <circle id="Ellipse_10" data-name="Ellipse 10" cx="1324" cy="1324" r="1324" transform="translate(15356 800)" fill="#fcdc6b"/>
+    <ellipse id="Ellipse_11" data-name="Ellipse 11" cx="181" cy="214" rx="181" ry="214" transform="translate(15872 2090)" fill="#201e1e"/>
+    <ellipse id="Ellipse_12" data-name="Ellipse 12" cx="181" cy="214" rx="181" ry="214" transform="translate(17119 2090)" fill="#201e1e"/>
+    <g id="Group_14" data-name="Group 14">
+      <g id="Group_13" data-name="Group 13">
+        <path id="Path_17" data-name="Path 17" d="M17168,1913c0,49,27,82,74,82,28,0,114-39,203,20,28,19,42,59,86,59a76.059,76.059,0,0,0,76-68c4-42-30-70-52-92-48-49-134-75-213-80h-41C17227,1838,17168,1865,17168,1913Z" fill="#201e1e" fill-rule="evenodd"/>
+        <path id="Path_18" data-name="Path 18" d="M15841,2074c74,0,75-119,251-87,22,4,20,8,45,8,75,0,105-113,18-145-23-9-51-14-80-16h-40c-80,4-167,32-212,78-23,23-55,48-54,87C15770,2039,15803,2074,15841,2074Z" fill="#201e1e" fill-rule="evenodd"/>
+      </g>
+    </g>
+    <path id="Path_19" data-name="Path 19" d="M16319,2981c0,50,24,86,74,86,21,0,48-18,63-27,127-77,250-89,386-34,57,23,108,92,169,36,18-17,21-30,21-57,0-39-26-54-49-70-88-62-189-91-291-91-109,0-218,31-313,89-12,7-28,15-38,24C16333,2945,16319,2966,16319,2981Z" fill="#201e1e" fill-rule="evenodd"/>
+    <path id="Path_20" data-name="Path 20" d="M17471,2779c35,133,214,318,214,424s-54,213-214,213c-161,0-214-107-214-213S17437,2905,17471,2779Z" fill="#6383c1"/>
+  </g>
+</svg>

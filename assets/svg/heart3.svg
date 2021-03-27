@@ -1,0 +1,13 @@
+<svg id="heart3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1021" height="1021" viewBox="0 0 1021 1021">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_564" data-name="Path 564" d="M0,0H1021V1021H0Z" clip-rule="evenodd"/>
+    </clipPath>
+  </defs>
+  <path id="Path_562" data-name="Path 562" d="M0,0H1021V1021H0Z" fill="#f9f" fill-rule="evenodd"/>
+  <g id="Group_7" data-name="Group 7" clip-path="url(#clip-path)">
+    <path id="Path_563" data-name="Path 563" d="M987,1355c166-16,332-32,457-91,125-60,209-162,293-265Q1263,606,788,214,498.5,362.5,209,510,597.5,933,987,1355Z" fill="#4d4d4d" fill-rule="evenodd"/>
+  </g>
+  <path id="Path_565" data-name="Path 565" d="M0,0H1021V1021H0Z" fill="none" fill-rule="evenodd"/>
+  <path id="Path_566" data-name="Path 566" d="M510,307c45-81,89-122,177-122,98,0,177,73,177,163,0,162-177,325-354,487C333,673,156,510,156,348c0-90,80-163,177-163C422,185,466,226,510,307Z" fill="#e80000"/>
+</svg>

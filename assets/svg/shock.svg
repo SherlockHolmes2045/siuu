@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2682" height="2682" viewBox="0 0 2682 2682">
+  <g id="shock" transform="translate(-11875 -783)">
+    <circle id="Ellipse_5" data-name="Ellipse 5" cx="1341" cy="1341" r="1341" transform="translate(11875 783)" fill="#fcdc6b"/>
+    <g id="Group_10" data-name="Group 10">
+      <g id="Group_9" data-name="Group 9">
+        <path id="Path_12" data-name="Path 12" d="M12392,1204c0,62,77,97,126,55,14-13,27-35,56-57,12-8,20-15,33-22,56-28,100-3,138,39,50,57,136,25,136-48,0-61-222-287-450-41-7,7-6,7-11,14C12407,1160,12392,1174,12392,1204Z" fill="#201e1e" fill-rule="evenodd"/>
+        <path id="Path_13" data-name="Path 13" d="M13570,1171c0,63,61,93,108,70,19-10,49-49,79-63,44-21,80-8,115,21,11,9,19,15,29,25,16,16,47,73,109,48,14-5,22-12,31-23,11-14,16-26,18-38v-14c-4-29-28-51-38-64-42-55-144-117-221-117-54,0-112,24-145,48l-53,43c-5,6-4,6-9,12C13581,1134,13570,1142,13570,1171Z" fill="#201e1e" fill-rule="evenodd"/>
+      </g>
+    </g>
+    <ellipse id="Ellipse_6" data-name="Ellipse 6" cx="196.818" cy="276.335" rx="196.818" ry="276.335" transform="translate(12437.503 1538.622) rotate(3.42)" fill="#201e1e"/>
+    <ellipse id="Ellipse_7" data-name="Ellipse 7" cx="196.818" cy="276.335" rx="196.818" ry="276.335" transform="translate(13612.962 1562.107) rotate(-3.42)" fill="#201e1e"/>
+    <ellipse id="Ellipse_8" data-name="Ellipse 8" cx="331" cy="544" rx="331" ry="544" transform="translate(12887 2176)" fill="#201e1e"/>
+  </g>
+</svg>

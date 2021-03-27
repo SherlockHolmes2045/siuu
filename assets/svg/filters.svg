@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22" height="22" viewBox="0 0 22 22">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="22" height="22" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="filters" clip-path="url(#clip-path)">
+    <circle id="circle_1" data-name="circle 1" cx="7" cy="7" r="7" transform="translate(0 8)" fill="#fff" opacity="0.2"/>
+    <circle id="circle_2" data-name="circle 2" cx="7" cy="7" r="7" transform="translate(8 8)" fill="#fff" opacity="0.6"/>
+    <circle id="circle_3" data-name="circle 3" cx="7" cy="7" r="7" transform="translate(4)" fill="#fff" opacity="0.4"/>
+  </g>
+</svg>

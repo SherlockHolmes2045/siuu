@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2682" height="2682" viewBox="0 0 2682 2682">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fcdc6b"/>
+      <stop offset="1" stop-color="#df4158"/>
+    </linearGradient>
+  </defs>
+  <g id="angry" transform="translate(-18798 -783)">
+    <circle id="Ellipse_9" data-name="Ellipse 9" cx="1341" cy="1341" r="1341" transform="translate(18798 783)" fill="url(#linear-gradient)"/>
+    <path id="Path_14" data-name="Path 14" d="M20305,2993c269,0,296,59,296,106,0,48-133,67-296,67-164,0-297-19-297-67C20008,3052,20035,2993,20305,2993Z" fill="#201e1e" fill-rule="evenodd"/>
+    <path id="Path_15" data-name="Path 15" d="M19326,2683c0,73,59,85,131,106a217.179,217.179,0,0,1,24,7c35,78,118,134,214,134a241.274,241.274,0,0,0,160-60c28,4,56,6,85,9,42,3,65,6,91-17,37-35,39-116-48-131l-206-24c-85-12-242-47-327-78-15-6-30-11-45-13h-16c-13,1-26,7-40,20C19340,2644,19326,2667,19326,2683Zm242,135a174.167,174.167,0,0,0,22,5A174.167,174.167,0,0,1,19568,2818Z" fill="#201e1e" fill-rule="evenodd"/>
+    <path id="Path_16" data-name="Path 16" d="M21258,2697c0,69-56,80-125,100-7,2-14,4-22,6-33,74-111,127-202,127a229.028,229.028,0,0,1-150-56c-27,3-54,5-81,8-39,3-61,6-85-17-35-33-38-109,44-123l195-22c81-12,228-45,308-74,14-5,28-11,43-12h15c12,1,24,7,37,18C21244,2661,21258,2682,21258,2697Zm-229,127a159.848,159.848,0,0,1-21,5A159.848,159.848,0,0,0,21029,2824Z" fill="#201e1e" fill-rule="evenodd"/>
+  </g>
+</svg>

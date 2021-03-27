@@ -1,0 +1,3 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15.9" height="18.05" viewBox="0 0 15.9 18.05">
+  <path id="PlayButton" d="M138,18a.9.9,0,0,1-.5-.1,1.05,1.05,0,0,1-.5-.9V1a1.05,1.05,0,0,1,.5-.9.908.908,0,0,1,1,0l13.9,8a1.06,1.06,0,0,1,0,1.8l-13.9,8A.9.9,0,0,1,138,18Zm1-15.3V15.2L149.9,9Z" transform="translate(-137 0.05)" fill="#fff" fill-rule="evenodd"/>
+</svg>

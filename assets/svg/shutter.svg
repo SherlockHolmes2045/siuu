@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="66" height="66" viewBox="0 0 66 66">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="66" height="66" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="shutter" clip-path="url(#clip-path)">
+    <rect id="Rectangle_4" data-name="Rectangle 4" width="50" height="50" rx="25" transform="translate(8 8)" fill="#fff"/>
+    <g id="Rectangle_4-2" data-name="Rectangle 4" fill="rgba(255,255,255,0)" stroke="#fff" stroke-miterlimit="10" stroke-width="6">
+      <rect width="66" height="66" rx="33" stroke="none"/>
+      <rect x="3" y="3" width="60" height="60" rx="30" fill="none"/>
+    </g>
+  </g>
+</svg>

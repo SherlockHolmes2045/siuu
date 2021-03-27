@@ -1,0 +1,8 @@
+<svg id="wink" xmlns="http://www.w3.org/2000/svg" width="16.373" height="16.373" viewBox="0 0 16.373 16.373">
+  <circle id="Ellipse_277" data-name="Ellipse 277" cx="8.187" cy="8.187" r="8.187" transform="translate(0 0)" fill="#ffc10e"/>
+  <g id="Group_3948" data-name="Group 3948" transform="translate(2.489 4.077)">
+    <path id="Path_2947" data-name="Path 2947" d="M72.034,228.39a5.7,5.7,0,0,0,9.586,4.164c.311-.279-.148-.735-.457-.457a5.05,5.05,0,0,1-8.483-3.707.323.323,0,0,0-.646,0Z" transform="translate(-72.034 -224.276)" fill="#333"/>
+    <ellipse id="Ellipse_278" data-name="Ellipse 278" cx="1.286" cy="0.646" rx="1.286" ry="0.646" transform="translate(1.924 0.639)" fill="#333"/>
+    <circle id="Ellipse_279" data-name="Ellipse 279" cx="1.286" cy="1.286" r="1.286" transform="translate(6.786)" fill="#333"/>
+  </g>
+</svg>
